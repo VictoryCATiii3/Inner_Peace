@@ -9,7 +9,7 @@
 - Short intro lessons
 
 ## Support
-For help or questions, [open an issue](https://github.com/victor-ai/inner-peace/issues) or email victor7670326@gmail.com.
+For help or questions, [open an issue](https://github.com/VictoryCATiii3/Inner_Peace/issues) or email victor7670326@gmail.com.
 
 ## Privacy Policy
 [Read our privacy policy here](link-to-your-privacy-policy)
