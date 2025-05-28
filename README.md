@@ -12,4 +12,4 @@
 For help or questions, [open an issue](https://github.com/VictoryCATiii3/Inner_Peace/issues) or email victor7670326@gmail.com.
 
 ## Privacy Policy
-[Read our privacy policy here](link-to-your-privacy-policy)
+[Read our privacy policy here](https://github.com/VictoryCATiii3/Inner_Peace/tree/main)
